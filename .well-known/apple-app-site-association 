@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4BWVWQ77HP.com.com.eon.customerApp",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}

@@ -1,9 +1,14 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { 
-      "namespace": "android_app", 
-      "package_name": "com.suleymangunes.deeplinking_autorotue.deeplinking_autoroute",
-      "sha256_cert_fingerprints": 
-      ["F9:C9:9F:71:F8:16:58:7B:29:91:A5:E1:08:62:9E:A7:E0:93:4F:7E:B1:2D:38:E8:E5:00:9A:35:A9:E1:40:53"] 
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.customer_app",
+      "sha256_cert_fingerprints": [
+        "F9:C9:9F:71:F8:16:58:7B:29:91:A5:E1:08:62:9E:A7:E0:93:4F:7E:B1:2D:38:E8:E5:00:9A:35:A9:E1:40:53"
+      ]
     }
-  }]
+  }
+]
